@@ -27,6 +27,6 @@ To run from repository root directory:
 
 ### Elixir
 
-`cat elixir/day_01/input.txt  | elixir/day_01/advent1.1.ex`
+`cat elixir/day_01/input.txt  | elixir/day_01/advent1.1.exs`
 
 [http://adventofcode.com](http://adventofcode.com)
